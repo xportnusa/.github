@@ -2,10 +2,15 @@
 
 Xportnusa is an e-commerce platform specialized in agribusiness that facilitates transactions between sellers from Indonesia and buyers in the global market
 
-### Background
-MSMEs are the highest contributor to GDP, which is at 61% with a high total employment at 96.9%. plus Indonesia is a developing country which makes this an added value because prices are relatively cheaper with competitive quality. natural resource wealth if managed properly will have a good impact on this nation.
+## Background
 
-### Team
+### _Current Situation in Indonesia_
+MSMEs, which contribute only 15.7% to exports, hold substantial growth potential given their 61% contribution to GDP and employment of 96.9% of the workforce, supported by competitive pricing and high-quality products, alongside effective natural resource management.
+
+### _Global Market Context_
+By linking Indonesian exporters with international buyers, we can capitalize on substantial global opportunities, leveraging Indonesia's competitive pricing and high product quality to gain significant advantages in the international market.
+
+## Team
 
 | No | Student ID     | Name                         | Learning Path      | University                                  |
 |----|----------------|------------------------------|--------------------|---------------------------------------------|
